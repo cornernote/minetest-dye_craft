@@ -14,6 +14,7 @@ local register_dye_craft = function(output,recipe)
 		type = 'shapeless',
 		output = output,
 		recipe = recipe,
+		replacements = {{"bucket:bucket_water", "bucket:bucket_empty"}},
 	})
 end
 
