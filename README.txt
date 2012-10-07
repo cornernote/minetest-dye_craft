@@ -17,3 +17,10 @@ Description
 ----------------------------------
 
 Provides crafts for dyes.
+
+
+----------------------------------
+Credits
+----------------------------------
+
+Topywo - reviewed recipes to make everything fair and logical
